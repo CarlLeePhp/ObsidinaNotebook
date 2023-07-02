@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "ec88bb7157cf3eca",
+    "type": "split",
+    "children": [
+      {
+        "id": "2915d44680c452b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67f9ef8544bdb73d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IC Course/00 Tools Webs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1777276363dd484",
+    "type": "split",
+    "children": [
+      {
+        "id": "43f4aeae187039b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fe23bfc607d701f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc9b4f35c7ac9776",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28c4bca6e9483486",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "28ab356de3c7ae1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217.5
+  },
+  "right": {
+    "id": "4833d437c8b77298",
+    "type": "split",
+    "children": [
+      {
+        "id": "23186fa517aa8d53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a03e6bb4ee0abe1b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IC Course/00 Tools Webs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03ae870c4c0f6a9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IC Course/00 Tools Webs.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac5436c2d8b033fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d643c19a9ec212a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IC Course/00 Tools Webs.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "67f9ef8544bdb73d",
+  "lastOpenFiles": [
+    "README.md",
+    "IC Course/00 Tools Webs.md",
+    "MVP Internship/Week 2.md",
+    "MVP Internship/Week 1.md",
+    "IC Course/01 CSharp Basic.md",
+    "React/Function Component.md",
+    "React/Udemy_02.md",
+    "React/Udemy_01.md",
+    "React/React_01.md",
+    "IC Course/05 Entity Framework.md",
+    "IC Course/04 Database.md",
+    "IC Course/07 jQuery.md",
+    "MVP Internship",
+    "IC Course/06 MVC.md",
+    "ASP/101-Walking Skeleton.md",
+    "ASP/111-Angular Routing.md",
+    "Angular/Angular-Form.md",
+    "Angular/Angular-Element.md",
+    "Angular/Angular_router.md",
+    "Angular/Angular_02.md",
+    "Angular/Angular_01.md",
+    "IC Course/02 Library.md",
+    "天勤教育/基础部分/1551689579499.png",
+    "天勤教育/基础部分/1551688311416.png",
+    "天勤教育/基础部分/Waterfall Model.PNG",
+    "天勤教育/基础部分/W-Model early test design.PNG",
+    "天勤教育/基础部分/V-Shaped Model.PNG",
+    "天勤教育/基础部分/V-Model late test design.PNG",
+    "天勤教育/基础部分/TQ-HowToBreakSoftware.md",
+    "天勤教育/基础部分/TQ-13.md",
+    "天勤教育/基础部分/TQ-02.md",
+    "天勤教育/基础部分/TQ-01.md",
+    "Assets/Preparation Material_ Software Developer - Google 文档.pdf",
+    "Assets/Participant Onboarding.pdf",
+    "Assets/02 C# library and source code.pdf",
+    "Assets/01 CSharp.pdf",
+    "Assets/SET-UP GUIDE_ Software Developer Job Ready Programme.pdf",
+    "Assets/Pasted image 20230605152512.png",
+    "Assets/Pasted image 20230527224857.png",
+    "Assets/Pasted image 20230527224826.png",
+    "Assets/Pasted image 20230527224654.png",
+    "Assets",
+    "Obsidin",
+    "程序语言/Spring",
+    "程序语言/Python"
+  ]
+}
