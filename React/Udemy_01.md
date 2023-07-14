@@ -298,7 +298,3 @@ searchUsers = (text) => {
 
 
 
-
-
-## Section 5
-

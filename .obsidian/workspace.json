@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2915d44680c452b6",
+        "id": "5a45e7612799bbeb",
         "type": "tabs",
         "children": [
           {
-            "id": "67f9ef8544bdb73d",
+            "id": "05b4a49ec6fc1aee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0bb42ef820718405",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MVP Internship/Week 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6d5306533b5a79f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MVP Internship/Task 2 Instruction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IC Course/00 Tools Webs.md",
+                "file": "MVP Internship/Task 2 Instruction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IC Course/00 Tools Webs.md",
+                "file": "MVP Internship/Task 2 Instruction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IC Course/00 Tools Webs.md"
+                "file": "MVP Internship/Task 2 Instruction.md"
               }
             }
           }
@@ -154,17 +179,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67f9ef8544bdb73d",
+  "active": "d6d5306533b5a79f",
   "lastOpenFiles": [
-    "README.md",
+    "MVP Internship/Week 5 Task 2.md",
+    "MVP Internship/Task 2 Instruction.md",
+    "MVP Internship/README.md",
+    "MVP Internship/Week 3.md",
+    "MVP Internship/Deployment.md",
     "IC Course/00 Tools Webs.md",
+    "Assets/Pasted image 20230712221951.png",
+    "Assets/02 C# library and source code.pdf",
+    "Assets/01 CSharp.pdf",
+    "Tools/VS.md",
+    "Electron.md",
+    "Tools",
+    "React/Udemy_01.md",
+    "React/00 Index.md",
+    "React/React_01.md",
+    "React/React Router.md",
+    "React/Function Component.md",
     "MVP Internship/Week 2.md",
     "MVP Internship/Week 1.md",
+    "README.md",
     "IC Course/01 CSharp Basic.md",
-    "React/Function Component.md",
     "React/Udemy_02.md",
-    "React/Udemy_01.md",
-    "React/React_01.md",
     "IC Course/05 Entity Framework.md",
     "IC Course/04 Database.md",
     "IC Course/07 jQuery.md",
@@ -174,32 +212,20 @@
     "ASP/111-Angular Routing.md",
     "Angular/Angular-Form.md",
     "Angular/Angular-Element.md",
-    "Angular/Angular_router.md",
-    "Angular/Angular_02.md",
-    "Angular/Angular_01.md",
-    "IC Course/02 Library.md",
     "天勤教育/基础部分/1551689579499.png",
     "天勤教育/基础部分/1551688311416.png",
     "天勤教育/基础部分/Waterfall Model.PNG",
     "天勤教育/基础部分/W-Model early test design.PNG",
     "天勤教育/基础部分/V-Shaped Model.PNG",
     "天勤教育/基础部分/V-Model late test design.PNG",
-    "天勤教育/基础部分/TQ-HowToBreakSoftware.md",
-    "天勤教育/基础部分/TQ-13.md",
-    "天勤教育/基础部分/TQ-02.md",
-    "天勤教育/基础部分/TQ-01.md",
     "Assets/Preparation Material_ Software Developer - Google 文档.pdf",
     "Assets/Participant Onboarding.pdf",
-    "Assets/02 C# library and source code.pdf",
-    "Assets/01 CSharp.pdf",
     "Assets/SET-UP GUIDE_ Software Developer Job Ready Programme.pdf",
     "Assets/Pasted image 20230605152512.png",
     "Assets/Pasted image 20230527224857.png",
     "Assets/Pasted image 20230527224826.png",
-    "Assets/Pasted image 20230527224654.png",
     "Assets",
     "Obsidin",
-    "程序语言/Spring",
-    "程序语言/Python"
+    "程序语言/Spring"
   ]
 }

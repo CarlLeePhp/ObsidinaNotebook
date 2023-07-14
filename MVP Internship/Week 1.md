@@ -14,6 +14,12 @@ $ npm install semantic-ui-react semantic-ui-css
 import 'semantic-ui-css/semantic.min.css'
 ```
 
+#### Put the modal in the center
+```js
+// Add these style
+style={{ "position": "relative", "display": "block", height: "auto", justifyContent: "center", alignItems: "center" }}
+```
+
 #### To Do List
 2023-06-21
 - Created the database, 'onboarding'.
