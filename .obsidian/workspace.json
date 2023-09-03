@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "5a45e7612799bbeb",
+        "id": "b4d6d7372aa68fa6",
         "type": "tabs",
         "children": [
           {
-            "id": "05b4a49ec6fc1aee",
+            "id": "54ca07deece238ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IC Course/00 Tools Webs.md",
+                "file": "ASP/143-React Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0bb42ef820718405",
+            "id": "c00cb0872991b94d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MVP Internship/Week 3.md",
+                "file": "MVP Internship/Talent Standard Readme.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d6d5306533b5a79f",
+            "id": "f572d415d22b9a35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MVP Internship/Task 2 Instruction.md",
+                "file": "ASP/149-Identity.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MVP Internship/Task 2 Instruction.md",
+                "file": "ASP/149-Identity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MVP Internship/Task 2 Instruction.md",
+                "file": "ASP/149-Identity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MVP Internship/Task 2 Instruction.md"
+                "file": "ASP/149-Identity.md"
               }
             }
           }
@@ -179,53 +179,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6d5306533b5a79f",
+  "active": "f572d415d22b9a35",
   "lastOpenFiles": [
+    "ASP/00-index.md",
+    "ASP/149-Identity.md",
+    "ASP/143-React Basics.md",
+    "ASP/142-API Basic.md",
+    "IC Course/00 Tools Webs.md",
+    "MVP Internship/Talent Standard Readme.md",
+    "MVP Internship/Week 6.md",
+    "ASP/123-API Architecture.md",
+    "ASP/202-Looking Around.md",
     "MVP Internship/Week 5 Task 2.md",
-    "MVP Internship/Task 2 Instruction.md",
+    "MVP Internship/Talent Standard.md",
     "MVP Internship/README.md",
+    "MVP Internship/Task 2 Details.md",
+    "MVP Internship/Task 2 Instruction.md",
+    "MVP Internship/Week 1.md",
+    "Assets/Pasted image 20230723130902.png",
+    "Tools/VS.md",
+    "Assets/Pasted image 20230723104803.png",
+    "Assets/Pasted image 20230723104708.png",
+    "Assets/Pasted image 20230722221108.png",
+    "PodCast/01 First Day Try.md",
+    "Electron.md",
+    "PodCast",
+    "IC Course/06 MVC.md",
+    "Assets/Pasted image 20230722115045.png",
+    "Assets/Pasted image 20230717214118.png",
+    "Assets/Pasted image 20230717214101.png",
     "MVP Internship/Week 3.md",
     "MVP Internship/Deployment.md",
-    "IC Course/00 Tools Webs.md",
     "Assets/Pasted image 20230712221951.png",
     "Assets/02 C# library and source code.pdf",
     "Assets/01 CSharp.pdf",
-    "Tools/VS.md",
-    "Electron.md",
     "Tools",
     "React/Udemy_01.md",
     "React/00 Index.md",
     "React/React_01.md",
     "React/React Router.md",
     "React/Function Component.md",
-    "MVP Internship/Week 2.md",
-    "MVP Internship/Week 1.md",
-    "README.md",
-    "IC Course/01 CSharp Basic.md",
-    "React/Udemy_02.md",
-    "IC Course/05 Entity Framework.md",
-    "IC Course/04 Database.md",
-    "IC Course/07 jQuery.md",
     "MVP Internship",
-    "IC Course/06 MVC.md",
-    "ASP/101-Walking Skeleton.md",
-    "ASP/111-Angular Routing.md",
-    "Angular/Angular-Form.md",
-    "Angular/Angular-Element.md",
     "天勤教育/基础部分/1551689579499.png",
     "天勤教育/基础部分/1551688311416.png",
-    "天勤教育/基础部分/Waterfall Model.PNG",
-    "天勤教育/基础部分/W-Model early test design.PNG",
-    "天勤教育/基础部分/V-Shaped Model.PNG",
-    "天勤教育/基础部分/V-Model late test design.PNG",
     "Assets/Preparation Material_ Software Developer - Google 文档.pdf",
     "Assets/Participant Onboarding.pdf",
     "Assets/SET-UP GUIDE_ Software Developer Job Ready Programme.pdf",
-    "Assets/Pasted image 20230605152512.png",
-    "Assets/Pasted image 20230527224857.png",
-    "Assets/Pasted image 20230527224826.png",
     "Assets",
-    "Obsidin",
-    "程序语言/Spring"
+    "Obsidin"
   ]
 }

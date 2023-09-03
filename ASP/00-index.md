@@ -12,6 +12,10 @@
 
 [Including Angular part]
 
+14x - Learn to build an e-commerce app with .Net Core and React
+
 #### Blazor
 
 3xx - Web Development with Blazor
+
+
