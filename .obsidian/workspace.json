@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "b4d6d7372aa68fa6",
+        "id": "9c68b3100646d31c",
         "type": "tabs",
         "children": [
           {
-            "id": "54ca07deece238ad",
+            "id": "c8115f46973dc9cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP/143-React Basics.md",
+                "file": "MVP Internship/Talent Standard.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c00cb0872991b94d",
+            "id": "b18861c3602e4c07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MVP Internship/Talent Standard Readme.md",
+                "file": "MVP Internship/Talent Project Start.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f572d415d22b9a35",
+            "id": "5a7bcb34fdd85a8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP/149-Identity.md",
+                "file": "IC Course/00 Tools Webs.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 288.5
   },
   "right": {
     "id": "4833d437c8b77298",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASP/149-Identity.md",
+                "file": "IC Course/00 Tools Webs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASP/149-Identity.md",
+                "file": "IC Course/00 Tools Webs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASP/149-Identity.md"
+                "file": "IC Course/00 Tools Webs.md"
+              }
+            }
+          },
+          {
+            "id": "2cd629eb132e91a2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -179,53 +191,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f572d415d22b9a35",
+  "active": "5a7bcb34fdd85a8f",
   "lastOpenFiles": [
+    "MVP Internship/Talent Standard.md",
+    "ASP/181 Introduction.md",
+    "MVP Internship/Talent Project Start.md",
+    "IC Course/00 Tools Webs.md",
     "ASP/00-index.md",
+    "ASP/201-Get Ready.md",
+    "ASP/162-RabbitMQ.md",
+    "ASP/161-Microservices.md",
+    "ASP/160 Microservices .Net and NextJS.md",
+    "MVP Internship/Talent Standard Readme.md",
     "ASP/149-Identity.md",
+    "ASP/901 ASP and React Starter.md",
+    "ASP/122-API Basics.md",
+    "ASP/144-React Router.md",
     "ASP/143-React Basics.md",
     "ASP/142-API Basic.md",
-    "IC Course/00 Tools Webs.md",
-    "MVP Internship/Talent Standard Readme.md",
-    "MVP Internship/Week 6.md",
-    "ASP/123-API Architecture.md",
-    "ASP/202-Looking Around.md",
-    "MVP Internship/Week 5 Task 2.md",
-    "MVP Internship/Talent Standard.md",
-    "MVP Internship/README.md",
-    "MVP Internship/Task 2 Details.md",
-    "MVP Internship/Task 2 Instruction.md",
-    "MVP Internship/Week 1.md",
+    "ASP/124-API Architecture.md",
+    "ASP/101-Walking Skeleton.md",
+    "ASP/145-Error Handling.md",
+    "ASP/146 Shopping Cart.md",
+    "SIT-509/SIT-Bootstrap.md",
+    "SIT-509/Presentation.md",
+    "NotebookApps/Obsidian.md",
+    "Obsidin/Pictures.md",
+    "NotebookApps/MarkText.md",
+    "ASP/100-Setting Dev.md",
+    "ASP/image-20210918190454139.png",
+    "Assets/Pasted image 20240206120730.png",
+    "Assets/Pasted image 20240206120058.png",
+    "Life",
+    "Assets/Pasted image 20240127230349.png",
+    "MVP Internship/Talent Start Up",
+    "TestFolder",
+    "Assets/Pasted image 20230910153133.png",
+    "Assets/Pasted image 20230910152828.png",
     "Assets/Pasted image 20230723130902.png",
-    "Tools/VS.md",
     "Assets/Pasted image 20230723104803.png",
     "Assets/Pasted image 20230723104708.png",
     "Assets/Pasted image 20230722221108.png",
-    "PodCast/01 First Day Try.md",
-    "Electron.md",
     "PodCast",
-    "IC Course/06 MVC.md",
-    "Assets/Pasted image 20230722115045.png",
-    "Assets/Pasted image 20230717214118.png",
-    "Assets/Pasted image 20230717214101.png",
-    "MVP Internship/Week 3.md",
-    "MVP Internship/Deployment.md",
-    "Assets/Pasted image 20230712221951.png",
     "Assets/02 C# library and source code.pdf",
     "Assets/01 CSharp.pdf",
     "Tools",
-    "React/Udemy_01.md",
-    "React/00 Index.md",
-    "React/React_01.md",
-    "React/React Router.md",
-    "React/Function Component.md",
     "MVP Internship",
-    "天勤教育/基础部分/1551689579499.png",
-    "天勤教育/基础部分/1551688311416.png",
     "Assets/Preparation Material_ Software Developer - Google 文档.pdf",
-    "Assets/Participant Onboarding.pdf",
-    "Assets/SET-UP GUIDE_ Software Developer Job Ready Programme.pdf",
-    "Assets",
-    "Obsidin"
+    "Assets/Participant Onboarding.pdf"
   ]
 }

@@ -14,6 +14,7 @@
 
 14x - Learn to build an e-commerce app with .Net Core and React
 
+18x - Build a Microservices app with .Net and NextJS from Scratch (Neil Cummings)
 #### Blazor
 
 3xx - Web Development with Blazor

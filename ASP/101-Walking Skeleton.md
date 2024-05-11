@@ -53,11 +53,17 @@ public void ConfigureServices(IServiceCollection services)
     services.AddControllers();
     // ...
 }
+
+// Asp.NET CORE 6.x or 8.x
+builder.Services.AddDbContext<AppDbContext>(options =>
+{
+options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+});
 ```
 
 #### EF Commands
 
-Add-Migration *migrationName* -o *path*, Update-database
+Add-Migration *migrationName* -o *path*, Update-database, 
 
 #### Basic API Controller
 

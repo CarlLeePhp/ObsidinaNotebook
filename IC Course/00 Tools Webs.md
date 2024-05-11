@@ -1,5 +1,6 @@
 [IndustryConnect.IO Industry Connect Dashboard](https://industryconnect.io/Navigation/ApprenticeDashboard)
 
+
 #### Tools for day 1
 
 -   **Visual Studio - you will use this to write C# code and build applications. https://www.visualstudio.com/vs/community/**

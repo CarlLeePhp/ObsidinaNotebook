@@ -41,6 +41,17 @@ protected override void OnModelCreating(ModelBuilder builder)
 ### Program
 
 ```c#
+// from this course
+builder.Services.AddCors();
+builder.Services.AddIdentityCore<AppUser>()
+    .AddRoles<IdentityRole>()
+    .AddEntityFrameworkStores<AppDbContext>();
+
+builder.Services.AddAuthentication();
+
+builder.Services.AddAuthorization();
+
+
 // Add Indentity Support
 builder.Services.AddIdentityCore<ApplicationUser>(options =>
 {
@@ -69,3 +80,13 @@ builder.Services.AddAuthorization();
 
 
 ## Account Controller
+Injects user manager.
+
+Http Post for login.
+Take a login dto as input and return an Application.
+
+Http Post Register.
+
+
+
+

@@ -31,6 +31,8 @@ builder.Services.AddCors();
 
 //...
 // Order is important for below codes
+app.UseHttpsRedirection(); // exist
+
 app.UseCors(opt => 
 {
     opt.AllowyAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:3000");
@@ -45,8 +47,9 @@ export interface Category {
     id: number;
     description: string;
     optionalItem?: string;
-}
+};
 
+// how to use it
 const [products, setProducts] = useState<Product>();
 ```
 
@@ -66,3 +69,24 @@ Deleted:
 - log.svg
 
 Stop at 28
+
+
+## Material UI
+```bash
+npm install @mui/material @emotion/react @emotion/styled
+
+# font
+npm install @fontsource/roboto
+
+# icons
+npm install @mui/icons-material
+```
+
+Import it in your entry point: (index.tsx) for Fints.
+```js
+import '@fontsource/roboto/300.css';
+import '@fontsource/roboto/400.css';
+import '@fontsource/roboto/500.css';
+import '@fontsource/roboto/700.css';
+```
+

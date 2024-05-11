@@ -14,6 +14,8 @@ https://www.freecodecamp.org/news/error-error-0308010c-digital-envelope-routines
 
 I installed NodeJS 16. The problem looks like be solved.
 
+There is a solution from Q&A:
+[Getting Started with the Competition Project in .NET Core 2.2 - Q&A MVP Studio](http://questionhub.mvp.studio/?qa=31411/getting-started-with-the-competition-project-in-net-core-2-2&show=31411#q31411)
 ## Day 02
 Can I just deploy it? As we need ASP.Net Core 2.x.
 
