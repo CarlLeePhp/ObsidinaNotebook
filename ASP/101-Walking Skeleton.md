@@ -63,7 +63,8 @@ options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectio
 
 #### EF Commands
 
-Add-Migration *migrationName* -o *path*, Update-database, 
+Add-Migration *migrationName* -o *path*, Remove-Migration
+Update-database, Drop-Database
 
 #### Basic API Controller
 

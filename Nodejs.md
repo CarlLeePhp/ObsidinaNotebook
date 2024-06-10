@@ -23,3 +23,9 @@ The path to cache should be "D:\\Program Files\\nodejs\\node_cache". But from th
 检查哪些全局包可以更新：```npm outdated -g --depth=0```
 
 更新全局包：```npm update -g```
+
+## pnpm
+
+```
+npm install -g pnpm
+```
